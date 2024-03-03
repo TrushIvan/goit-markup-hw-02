@@ -26,7 +26,7 @@ h1 {
   text-align: center;
 }
 
-.first_buttonf, .link{
+.first_buttonf{
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -37,6 +37,6 @@ h1 {
 }
 
 
-.first_buttonf, .link:hover{
+.first_buttonf:hover{
   background-color: #404BBF;
 }
