@@ -71,3 +71,19 @@ link:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.list_section_three{
+  background-color: #ffffff;
+}
+.Our_team_Person{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.Our_team_Profesion{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
