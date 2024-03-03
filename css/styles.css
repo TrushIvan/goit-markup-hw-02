@@ -28,5 +28,11 @@ h1 {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
+.first_button:hover{
+  background-color: #404BBF;
+}
+.first_button:focus{
+  background-color: #404BBF;
+}
 
 
