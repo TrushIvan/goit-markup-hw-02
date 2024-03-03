@@ -1,14 +1,14 @@
-
 .main_content {
   width: 1440px;
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #FFFFFF;
 }
+
 /* hedder */
 
 
-.hedder_navigation_link{
+.hedder_navigation_link {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -17,6 +17,24 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
+.studio_first {
+  color: #2e2f42;
+}
+
+.hedder_navigation_item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.hedder_navigation_item:hover,
+.hedder_navigation_item:focus{
+  color: #404bbf;
+}
+
+
 
 /* section 1 */
 .hero_image {
@@ -37,9 +55,11 @@
 h1 {
   text-align: center;
 }
-.first_button{
+
+.first_button {
   background-color: #4D5AE5;
 }
+
 .first_button,
 link {
   background-color: #4D5AE5;
@@ -80,10 +100,11 @@ link:focus {
 }
 
 /* section 3 */
-.our_team{
+.our_team {
   background-color: #F4F4FD;
 }
-.our_team_title{
+
+.our_team_title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -91,24 +112,28 @@ link:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.list_section_three{
+
+.list_section_three {
   background-color: #ffffff;
 }
-.our_team_Person{
+
+.our_team_Person {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.our_team_Profesion{
+
+.our_team_Profesion {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 /* section 4 */
-.our_portfolio_title{
+.our_portfolio_title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -116,18 +141,21 @@ link:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.our_portfolio_names{
+
+.our_portfolio_names {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-} 
+}
+
 /* footer */
-.footer{
+.footer {
   background-color: #2e2f42;
 }
-.webstudio{
+
+.webstudio {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -136,10 +164,12 @@ link:focus {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.studio{
+
+.studio {
   color: #f4f4fd;
 }
-.text_footer{
+
+.text_footer {
   line-height: 1.5;
   color: #F4F4FD;
   letter-spacing: 0.02em;
