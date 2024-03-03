@@ -74,8 +74,7 @@ h1 {
   background-color: #4D5AE5;
 }
 
-.first_button,
-link {
+.first_button{
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -86,15 +85,11 @@ link {
   cursor: pointer;
 }
 
-.first_button,
-link:hover {
+.first_button:hover,
+.first_button:focus{
   background-color: #404BBF;
 }
 
-.first_button,
-link:focus {
-  background-color: #404BBF;
-}
 
 /* section 2 */
 .third_title {
