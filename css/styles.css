@@ -60,10 +60,10 @@ link:focus {
 }
 
 /* section 3 */
-.Our_team{
+.our_team{
   background-color: #F4F4FD;
 }
-.Our_team_title{
+.our_team_title{
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -81,14 +81,14 @@ link:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.Our_team_Profesion{
+.our_team_Profesion{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 /* section 4 */
-.Our_portfolio_title{
+.our_portfolio_title{
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -96,7 +96,7 @@ link:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.Our_portfolio_names{
+.our_portfolio_names{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
