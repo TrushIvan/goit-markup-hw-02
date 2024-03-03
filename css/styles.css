@@ -1,12 +1,32 @@
+
+.main_content {
+  width: 1440px;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF;
+}
+/* hefder */
+.hedder_navigation{
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.hedder_navigation_link{
+
+}
+
 /* section 1 */
 .hero_image {
   background-color: #2e2f42;
 }
 
 
-.main_content {
-  width: 1440px;
-}
+
 
 .main_title {
   font-size: 56px;
