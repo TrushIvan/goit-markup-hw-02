@@ -122,6 +122,9 @@ link:focus {
   color: #2e2f42;
 }
 /* footer */
+.footer{
+  background-color: #2e2f42;
+}
 .webstudio{
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -133,4 +136,9 @@ link:focus {
 }
 .studio{
   color: #f4f4fd;
+}
+.text_footer{
+  line-height: 1.5;
+  color: #F4F4FD;
+  letter-spacing: 0.02em;
 }
