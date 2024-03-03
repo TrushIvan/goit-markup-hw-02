@@ -5,8 +5,10 @@
   color: #434455;
   background-color: #FFFFFF;
 }
-/* hefder */
-.hedder_navigation{
+/* hedder */
+
+
+.hedder_navigation_link{
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -14,10 +16,6 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
-
-.hedder_navigation_link{
-
 }
 
 /* section 1 */
