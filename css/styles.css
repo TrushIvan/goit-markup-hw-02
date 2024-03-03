@@ -1,0 +1,28 @@
+.hero_image {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+  top: 72px;
+}
+
+
+.main_content {
+  width: 1440px;
+}
+
+.main_title {
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 496px;
+  height: 120px;
+  top: 260px;
+  left: 472px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
